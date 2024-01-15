@@ -1,0 +1,11 @@
+
+
+
+nvm use 16
+
+yarn serve
+
+
+
+
+https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html#set-up-the-project
